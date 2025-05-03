@@ -49,7 +49,7 @@ From *Hello World* to solving problems with logic and functions — this repo do
 Let's connect and grow together!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mehab30--Mehrab-181717?style=for-the-badge&logo=github)](https://github.com/Mehrab30-Mehrab)
-[![HSC Crackers](https://img.shields.io/badge/Platform-HSC_Crackers-blue?style=for-the-badge)](https://hsc-crackers.com)
+[![HSC Crackers](https://img.shields.io/badge/Platform-HSC_Crackers-blue?style=for-the-badge)](https://hsccrackers.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Mehrab.Morshed)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehrab080804)
 
