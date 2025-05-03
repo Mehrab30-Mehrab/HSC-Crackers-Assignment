@@ -1,104 +1,84 @@
-# 🧠 Quadratic Equation Type Classifier
-
-This project classifies a **quadratic equation** based on the nature of its roots.
 
 ---
 
-## 📘 Problem Description
-
-You are given three integers `a`, `b`, and `c`, the coefficients of a quadratic equation of the form:
-
-```c
-ax² + bx + c = 0
-
-```
-
-You must determine the type of this equation based on the nature of its roots:
-
-- **BAD EQUATION**: if both roots are complex
-- **GOOD EQUATION**: if both roots are real but not equal
-- **BEST EQUATION**: if both roots are real and equal
-
----
-
-## 🧮 Hint
-
-To determine the nature of the roots, compute the **discriminant**:
-
-```
-D = b² - 4ac
-
-```
-
-- If `D < 0`: Complex roots → `BAD EQUATION`
-- If `D > 0`: Real and unequal roots → `GOOD EQUATION`
-- If `D == 0`: Real and equal roots → `BEST EQUATION`
-
----
-
-## 📥 Input
-
-A single line containing three space-separated integers:
-
-```
-a b c
-
-```
----
-
-## 📤 Output
-
-Print one of the following:
-- `BAD EQUATION`
-- `GOOD EQUATION`
-- `BEST EQUATION`
-
----
-
-## 🧪 Examples
-
-| Input      | Output         |
-|------------|----------------|
-| `4 1 1`    | BAD EQUATION   |
-| `1-2 1`    | BEST EQUATION  |
-| `2 4 1`    | GOOD EQUATION  |
-
----
-
-## 🚀 How to Run
-
-1. Save the code into a file, e.g., `quadratic.c`
-
-2. Compile the program:
-
-    ```bash
-    gcc quadratic.c -o quadratic
-    ```
-
-3. Run the compiled program:
-
-    ```bash
-    ./quadratic
-    ```
-
-4. Input 3 integers (space-separated) and get the result.
-
----
-
-## 📁 File Structure
-
-```sql
-📂Quadratic-Equation-Classifier
-├── 🧠 quadratic.c
-└── 📄 README.md
-```
-
-
-## 🙌 Contributions
-
+<!-- Animated Header Using GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Thanks+For+Going+Through+The+README!!!;Please+Star+The+Repository+If+You+Liked+It+%F0%9F%92%96"!! alt="Thank you animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+HSC+Crackers+Assignment!;Learning+C+Language+One+Task+at+a+Time!" alt="Typing SVG" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
+</p>
+
+---
+
+### **What is this Repository?**
+> **HSC Crackers Assignment** is your go-to collection of all the assignments I’ve completed while learning **C Programming** from the platform I’m enrolled in.  
+> It’s a living proof of my journey from *Hello World* to more complex logic-building!
+
+---
+
+### **Contents**
+```bash
+📁 Assignment 1: Introduction to C
+📁 Assignment 2: Operators and Expressions
+📁 Assignment 3: Conditional Statements
+📁 Assignment 4: Loops & Iterations
+📁 Assignment 5: Functions in C
+📁 Assignment 6: Arrays and Strings
+📁 Assignment 7: Pointers and Memory
+... and more coming soon!
+
+
+---
+
+Features
+
+Well-organized and modular assignment structure.
+
+Beginner-friendly code with comments and explanations.
+
+Continuously updated as I progress.
+
+
+
+---
+
+Tech Stack
+
+ 
+
+
+---
+
+Want to Connect?
+
+Feel free to reach out or follow my journey:
+
+GitHub: Mehrab30-Mehrab 
+
+Platform: HSC Crackers 
+
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="200" />
+</p>> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
+
+
+---
+
+<p align="center">
+  Made with ❤️ by Mehrab
+</p>
+```
+---
+
+Would you like me to help you plug in your GitHub username and platform name directly in this?
 
