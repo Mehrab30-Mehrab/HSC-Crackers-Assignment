@@ -46,7 +46,7 @@ From *Hello World* to solving problems with logic and functions — this repo do
 
 ## 🔗 Connect With Me
 
-Let's connect and grow together!
+<b>Let's connect and grow together!</b>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mehab30--Mehrab-181717?style=for-the-badge&logo=github)](https://github.com/Mehrab30-Mehrab)
 [![HSC Crackers](https://img.shields.io/badge/Platform-HSC_Crackers-blue?style=for-the-badge)](https://hsccrackers.com)
