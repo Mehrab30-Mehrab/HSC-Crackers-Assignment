@@ -86,7 +86,7 @@ Given four sides and four angles of a quadrilateral in a sequential manner (AB, 
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0EE6B7&center=true&vCenter=true&width=100&lines=“Mathematics+is+the+music+of+reason.”;“Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.”" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=4000&pause=1000&color=0EE6B7&center=true&vCenter=true&width=1000&lines=“Mathematics+is+the+music+of+reason.”;“Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.”" alt="Typing SVG" />
 </p>
 
 <p align="center">
