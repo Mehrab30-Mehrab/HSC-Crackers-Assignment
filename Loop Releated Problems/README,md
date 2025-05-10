@@ -1,1 +1,35 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Loop Animation"/>
+</p>
+
+<h1 align="center">🔁 Loop Problems & Solutions 🔁</h1>
+
+<p align="center">
+  <em>Your go-to repository for mastering loops in programming!</em>
+</p>
+
+---
+
+## 📚 Overview
+
+Welcome to the **Loop Problems & Solutions** repository! 🎉
+
+This repository is a collection of loop-based problems along with their solutions, aimed at helping developers understand and master loops in various programming languages.
+
+---
+
+## 🧠 What You'll Find
+
+- ✅ A variety of loop problems ranging from beginner to advanced levels.
+- 🛠️ Solutions implemented in different programming languages.
+- 📈 Explanations and insights to deepen your understanding.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/loop-problems-solutions.git
 
