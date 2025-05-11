@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Looping Animation"/>
 </p>
 
-<h1 align="center">🔁 Loop Practice Hub 🔁</h1>
+<h1 align="center"><b>🔁 Loop Practice Hub 🔁</b></h1>
 
 <p align="center"><b> A collection of problems and solutions involving loops in various programming languages. </b></p>
 
