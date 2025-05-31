@@ -62,4 +62,8 @@ Have an array problem or solution to share?
 Feel free to open a PR! ❤️ Let's grow this collection together.
 
 ### 🌊 Happy Coding!
-<p align="center"> <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-animations/main/assets/wave.svg" alt="wave" width="100%" /> </p> ```
+
+<!-- Multicolor Wave Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuraghazra/branding/master/wave.svg" alt="Multicolor Wave" width="100%" />
+</p>
